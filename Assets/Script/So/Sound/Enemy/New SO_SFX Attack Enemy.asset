@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23ca2ce57a386a94fb074aa1f7001594, type: 3}
+  m_Name: New SO_SFX Attack Enemy
+  m_EditorClassIdentifier: 
+  audioClip: {fileID: 8300000, guid: 36a06e33b43345e43bb4dea8167b037c, type: 3}

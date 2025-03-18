@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dcd235bec9871a47996651082ffd222, type: 3}
+  m_Name: New SO_Step Foot Enemy
+  m_EditorClassIdentifier: 
+  stepFootEnemy1:
+  - {fileID: 8300000, guid: 0d7b482cfb8d26444b56cf9bd391bbc8, type: 3}
+  - {fileID: 8300000, guid: 32ccc7c2e5dfe7e47bdb43e58c14ba5f, type: 3}
+  - {fileID: 8300000, guid: bd14943c51b9b3c45a47517bff3a9118, type: 3}
+  - {fileID: 8300000, guid: 3dcf1ffeaded8bb48b5d4d9fe2b84ad6, type: 3}
+  - {fileID: 8300000, guid: 64f71d48930e3ae47bf82d26b2ef7974, type: 3}
+  - {fileID: 8300000, guid: 49be2f394a3bbb742bd3026ed26589c1, type: 3}
+  - {fileID: 8300000, guid: 4b6be033ff2441c4c954193467bfe5f1, type: 3}
+  - {fileID: 8300000, guid: 34d01ec6d005a8540bce96d89ee8042b, type: 3}
+  - {fileID: 8300000, guid: a8c754c0235ac2c4d806d9b0ad51adce, type: 3}
+  stepFootEnemy2: {fileID: 0}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0fcb5c24adf73e4da2c452429febd88, type: 3}
+  m_Name: New SO_Sound Foot Step
+  m_EditorClassIdentifier: 
+  AC_FS_WoodFloor:
+  - {fileID: 8300000, guid: 862d7561d970fa444b9d0cfde381632a, type: 3}
+  - {fileID: 8300000, guid: dd3edd6ffd8deae4b878f3696eacc685, type: 3}
+  - {fileID: 8300000, guid: 1874405f1e38d97469ceb4d5de874820, type: 3}
+  - {fileID: 8300000, guid: 3e373706beca2a94abfdcdf2b8448d4e, type: 3}
+  - {fileID: 8300000, guid: de92fac43dabef549a6e9cb34d838f65, type: 3}
+  - {fileID: 8300000, guid: 8d62d0a4fa20afb45b968e1af4f3a192, type: 3}
+  - {fileID: 8300000, guid: a5e41ab3b34879743a03b0e06e1d5068, type: 3}
+  - {fileID: 8300000, guid: 49db887ffb3f87b44b49f13d97295dfa, type: 3}
+  - {fileID: 8300000, guid: 4a27daa99d9b1d646b8552a8b18a0d47, type: 3}
+  - {fileID: 8300000, guid: 4b48f0caf711cf445bcfd66d3d9ca501, type: 3}
+  AC_FS_GlassFloor: {fileID: 0}
+  AC_FS_WoodFloorRun: {fileID: 0}

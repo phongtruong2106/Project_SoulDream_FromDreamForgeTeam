@@ -1,0 +1,1 @@
+Chắc phải cần bỏ cái gì đó vô #speaker: Endy

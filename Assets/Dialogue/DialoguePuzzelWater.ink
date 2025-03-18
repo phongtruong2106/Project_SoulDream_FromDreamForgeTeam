@@ -1,0 +1,1 @@
+mình cần phải có cái gì đó để đựng nước #speaker: Endy

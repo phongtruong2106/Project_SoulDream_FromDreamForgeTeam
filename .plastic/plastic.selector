@@ -1,0 +1,4 @@
+repository "Project_SoulDream_1@truongphong961@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,1 @@
+mình cần nước để đun sôi #speaker: Endy
